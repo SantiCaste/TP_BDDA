@@ -424,4 +424,4 @@ GO
 exec datos_turno.CSV_CARGAR_SEDES 'F:\UNLaM\2023 2C\Bases de Datos Aplicadas\TP BDDA\Dataset\Sedes.csv' --este tiene 2 ; de más.
 GO
 
---hasta acá llegamos 10/09/2023
+--hasta acá llegamos dia 10/09/2023
